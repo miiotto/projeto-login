@@ -23,6 +23,7 @@ Typical Devoce Breapontes
 
     section#login {
         width: 80vw;
+        height: 300px;
     }
 
     section#login > div#imagem {
@@ -49,6 +50,7 @@ Typical Devoce Breapontes
     /* tablet */
     section#login {
         width: 900px;
+        height: 400px;
     }
 
     section#login > div#imagem {
@@ -60,6 +62,7 @@ Typical Devoce Breapontes
     section#login > div#formulario {
         float: left;
         width: 50%;
+       
     }
 
     div#formulario > h1 {
@@ -70,7 +73,8 @@ Typical Devoce Breapontes
 
     div#formulario > p {
         font-size: 1.2em;
-        margin-top: 20px;
+        margin-top: 10px 0;
+        margin-bottom: 20px;
     }
 
 }
